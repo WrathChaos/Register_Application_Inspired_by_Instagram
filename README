@@ -2,7 +2,7 @@ Hello,
 
 This application is just a homework but i think this is a good example to learn Custom ListView, Custom ExpandableListView and Custom Spinner.
 
-Also it contains a good example of SharedPreference and Custom DialogBox.
+Also it contains a good example of SharedPreference and Custom DialogBox. Moreover, it has a left-right hand gesture code which is very simple to use.
 
 If you're new at Android, this is a really good example for you.
 
